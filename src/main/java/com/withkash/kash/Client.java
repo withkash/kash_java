@@ -17,7 +17,8 @@ import java.net.MalformedURLException;
 import java.net.URL;
 
 /**
- * @author Kash Corp. info@withkash.com
+ * @author Kash Corp developers@withkash.com
+ * @version 0.1.0
  *
  * Kash API Client
  * <P>
