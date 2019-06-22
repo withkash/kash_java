@@ -6,7 +6,7 @@ Create a client connected to the test environment:
 
     Client client = Client.createTestClient("<your secret key>");
 
-Create an an authorization for payment:
+Create an authorization for payment:
 
     Authorization authorization = null;
 
